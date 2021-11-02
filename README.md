@@ -5,7 +5,7 @@
 ### Hi there 👋
 
 
-I'm Alkis, a full-stack engineer and creative coder.
+I'm Alkis, a software engineer
 
 Want to know more about me? [Check out my portfolio.](https://alkislorantos.com/)
 
