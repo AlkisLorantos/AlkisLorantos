@@ -26,16 +26,9 @@ Want to know more about me? [Check out my portfolio.](https://alkislorantos.com/
 </div>
 <h3><strong>Just for the culture:</strong></h3>
 
-- 🔭 I’m currently working on: Fullstack development (Next JS, Gatsby and React) and DS Algo
-- 🌱 I’m currently learning: Complex algorithms
-- 👯 I’m looking to collaborate on: NextJS Projects and DevOps
-- 💬 Ask me about: Code, food and life
-- 📫 How to reach me: manuarorawork@gmail.com
+- 👯 I’m looking to collaborate !
+- 📫 How to reach me: alkisdev@gmail.com
 
 <br>
 <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="300">
-
-
-Special thanks to [ABSphreak](https://www.github.com/absphreak) for letting me know about this cool feature.
-
 
