@@ -24,7 +24,7 @@ Want to know more about me? [Check out my portfolio.](https://alkislorantos.com/
 <div align="center">
 
 </div>
-<h3><strong>Just for the culture:</strong></h3>
+
 
 - 👯 I’m looking to collaborate !
 - 📫 How to reach me: alkisdev@gmail.com
